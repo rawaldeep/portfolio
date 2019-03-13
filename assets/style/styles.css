@@ -872,10 +872,6 @@ span.two-pt:before {
   visibility: hidden;
 }
 
-.hero {
-  background: url(../img/hero_bg.jpg) center center no-repeat;
-  background-size: cover;
-}
 .hero .relative-pt {
   position: relative;
   height: 100vh;
