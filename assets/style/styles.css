@@ -1257,7 +1257,7 @@ span.two-pt:before {
 }
 
 .bar-content {
-  padding-bottom: 4px;
+  padding-bottom: 1em;
 }
 
 .barfiller {
