@@ -1,0 +1,16 @@
+{"dir" : "ltr",
+    "lang" : "en",
+    "name" : "Rawaldeep Singh",
+    "scope" : "/portfolio/",
+    "display" : "browser",
+    "start_url" : "https://rawaldeep.github.io/portfolio/",
+    "short_name" : "Rawaldeep Singh",
+    "theme_color" : "transparent",
+    "description" : "",
+    "orientation" : "any",
+    "background_color" : "transparent",
+    "related_applications" : "",
+    "prefer_related_applications" : "false",
+    "generated" : "true",
+    "icons" : [
+    ]}
