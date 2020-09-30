@@ -1717,6 +1717,11 @@ span.two-pt:before {
     top: 50%;
   }
 }
+@media (max-width: 1280px) {
+  .footer-area{
+    bottom: 0;
+  }
+}
 @media (max-width: 1024px) {
   .page-wrapper {
     overflow-x: hidden;
